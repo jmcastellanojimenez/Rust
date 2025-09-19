@@ -2,7 +2,7 @@
 [workspace]
 members = [
   "01-guessing-game",
-  "web-server-01",
+  "02-web-server",
 ]
 resolver = "2"
 

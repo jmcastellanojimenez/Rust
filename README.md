@@ -17,7 +17,7 @@ A learning-oriented multi-application Rust workspace. Each app lives in its own 
   - Optional: `.gitignore`, `rust-toolchain.toml`, CI config
 - One subdirectory per app, for example:
   - `01-guessing-game/` — introductory console app
-  - `web-server-01/` — minimal REST API example
+  - `02-web-server/` — minimal REST API example
 
 Each app contains:
 - `Cargo.toml`
