@@ -1,0 +1,373 @@
+warning: could not open directory 'Library/Daemon Containers/': Operation not permitted
+warning: could not open directory 'Library/Autosave Information/': Operation not permitted
+warning: could not open directory 'Library/IdentityServices/': Operation not permitted
+warning: could not open directory 'Library/Calendars/': Operation not permitted
+warning: could not open directory 'Library/Messages/': Operation not permitted
+warning: could not open directory 'Library/HomeKit/': Operation not permitted
+warning: could not open directory 'Library/Sharing/': Operation not permitted
+warning: could not open directory 'Library/com.apple.aiml.instrumentation/': Operation not permitted
+warning: could not open directory 'Library/Mail/': Operation not permitted
+warning: could not open directory 'Library/Trial/': Operation not permitted
+warning: could not open directory 'Library/AppleMediaServices/': Operation not permitted
+warning: could not open directory 'Library/DuetExpertCenter/': Operation not permitted
+warning: could not open directory 'Library/Accounts/': Operation not permitted
+warning: could not open directory 'Library/Safari/': Operation not permitted
+warning: could not open directory 'Library/Biome/': Operation not permitted
+warning: could not open directory 'Library/IntelligencePlatform/': Operation not permitted
+warning: could not open directory 'Library/Shortcuts/': Operation not permitted
+warning: could not open directory 'Library/Suggestions/': Operation not permitted
+warning: could not open directory 'Library/Weather/': Operation not permitted
+warning: could not open directory 'Library/Group Containers/group.com.apple.stocks-news/': Operation not permitted
+warning: could not open directory 'Library/ContainerManager/': Operation not permitted
+warning: could not open directory 'Library/PersonalizationPortrait/': Operation not permitted
+warning: could not open directory 'Library/Metadata/CoreSpotlight/': Operation not permitted
+warning: could not open directory 'Library/Metadata/com.apple.IntelligentSuggestions/': Operation not permitted
+warning: could not open directory 'Library/Reminders/': Operation not permitted
+warning: could not open directory 'Library/Cookies/': Operation not permitted
+warning: could not open directory 'Library/CoreFollowUp/': Operation not permitted
+warning: could not open directory 'Library/StatusKit/': Operation not permitted
+warning: could not open directory 'Library/DoNotDisturb/': Operation not permitted
+warning: could not open directory '.Trash/': Operation not permitted
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/COST-OPTIMIZATION.md"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/README.md"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/backend/tf-backend-resources.sh"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/.gitignore"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/Makefile"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/README.md"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/cdktf.json"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/config/nonprod/np-alpha-eks-01-cheap.json"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/config/nonprod/np-alpha-eks-01.json"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/config/nonprod/np-alpha-eks-02.json"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/config/nonprod/np-itc-eks-01.json"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/config/prod/placeholder.yaml"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/config/sandbox/placeholder.yaml"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/help"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/package-lock.json"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/package.json"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/main.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/bootstrap/bootstrap.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/eks/eks.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/eks_addons/cilium.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/eks_addons/eksAddons.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/eks_addons/files/cilium-values.yaml"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/eks_addons/files/kubeconfig.tpl"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/eks_nodegroups/eksNodegroups.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/permission/permission.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/vault/vault.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/modules/vpc/vpcData.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/src/providers.ts"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/cdktf/tsconfig.json"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/hcl/aws_vpc_endpoints/.gitignore"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/hcl/aws_vpc_endpoints/main.tf"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/hcl/aws_vpc_endpoints/providers.tf"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/hcl/aws_vpc_endpoints/variables.tf"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/hcl/aws_vpc_endpoints/versions.tf"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/hcl/aws_vpc_endpoints/vpc/data.tf"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/hcl/aws_vpc_endpoints/vpc/outputs.tf"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/hcl/aws_vpc_endpoints/vpc/variables.tf"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/GitHubRepos/tf-aws-master/hcl/aws_vpc_endpoints/vpc/vpc_endpoints.tf"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/.gitattributes"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/.gitignore"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/.mvn/wrapper/maven-wrapper.properties"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/mvnw"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/mvnw.cmd"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/pom.xml"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/src/main/java/com/baeldung/LsApplication.java"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/src/main/java/com/baeldung/persistence/model/Project.java"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/src/main/java/com/baeldung/persistence/repository/IProjectRepository.java"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/src/main/java/com/baeldung/persistence/repository/impl/ProjectRepositoryImpl.java"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/src/main/java/com/baeldung/service/IProjectService.java"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/src/main/java/com/baeldung/service/impl/ProjectServiceImpl.java"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/src/main/resources/application.properties"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/task-management-app/src/test/java/com/baeldung/task_management_app_lesson/TaskManagementAppLessonApplicationTests.java"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/.gitattributes"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/.gitignore"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/.mvn/wrapper/maven-wrapper.properties"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/HEXAGONAL_ARCHITECTURE_IMPLEMENTATION.md"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/mvnw"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/mvnw.cmd"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/adapter/in/web/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/adapter/out/persistence/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/config/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/controller/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/domain/model/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/domain/port/in/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/domain/port/out/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/domain/service/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/model/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/repository/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/service/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/java/com/lite/hexagonal/service/impl/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/main/resources/application.properties"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/test/java/com/lite/hexagonal/.DS_Store"
+ D "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sprint/test1/src/test/java/com/lite/hexagonal/controller/.DS_Store"
+?? .BrowserLock/
+?? .BurpSuite/
+?? .CFUserTextEncoding
+?? .DS_Store
+?? .aws/
+?? .bash_history
+?? .cache/
+?? .cargo/
+?? .claude.json
+?? .claude.json.backup
+?? .claude/
+?? .codeium/
+?? .colima/
+?? .config/
+?? .cursor/
+?? .docker/
+?? .fzf.bash
+?? .fzf.zsh
+?? .git-credentials
+?? .gitconfig
+?? .gitconfig-iag
+?? .gitconfig-personal
+?? .gnupg/
+?? .gradle/
+?? .h2.server.properties
+?? .idm/
+?? .kiro/
+?? .krew/
+?? .kube/
+?? .lesshst
+?? .local/
+?? .m2/
+?? .msf4/
+?? .nlq
+?? .npm/
+?? .nvm/
+?? .oh-my-zsh/
+?? .p10k.zsh
+?? .profile
+?? .putty/
+?? .quokka/
+?? .rustup/
+?? .skiko/
+?? .ssh/
+?? .terraform.d/
+?? .viminfo
+?? .vnc/
+?? .vscode/
+?? .wget-hsts
+?? .windsurf/
+?? ".zcompdump-MacBook Pro de Jose (2)-5.9"
+?? ".zcompdump-MacBook Pro de Jose (2)-5.9.zwc"
+?? ".zcompdump-MacBook Pro de Jose-5.9"
+?? ".zcompdump-MacBook Pro de Jose-5.9.zwc"
+?? .zcompdump-MacBook-Pro-de-Jose-3-5.9
+?? .zcompdump-MacBook-Pro-de-Jose-3-5.9.MacBook-Pro-de-Jose-3.local.22822
+?? .zcompdump-MacBook-Pro-de-Jose-3-5.9.zwc
+?? .zprofile
+?? .zprofile.macports-saved_2023-08-05_at_19:48:09
+?? .zsh_history
+?? .zsh_sessions/
+?? .zshenv
+?? .zshrc
+?? AWSCLIV2.pkg
+?? "Application Support/"
+?? Applications/
+?? Caches/
+?? Desktop/
+?? Documents/
+?? Downloads/
+?? IAM
+?? Library/.DS_Store
+?? Library/.localized
+?? Library/Accessibility/
+?? "Library/Application Support/"
+?? Library/Assistant/
+?? Library/Caches/
+?? Library/CloudStorage/.DS_Store
+?? Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/.Trash/
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/.DS_Store"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/AWS Networking.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/AWS status update Dec 2024.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Accounts for a dormant company.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Alquiler Oslo 2024/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Alta Autonomos domiciliaci\303\263n bancaria.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Alta Autonomos.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Anytype.20250810.183016.41.zip"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Anytype.20250810.183031.21.zip"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Anytype.20250811.190156.5.zip"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Apuntes Oracle/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Arquitectura/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Baja RETA Seguridad Social 2023 25 octubre/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Berocam/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Blockchain/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/CV jmcastellano 2025.pages"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/CV jmcastellano 2025.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/CV jmcastellano DBA.pages"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/CV jmcastellano DBA.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Compra piso Alcorcon/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Confirmation statement JMCJ Invest.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Cuentas personales.numbers"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/DBA Interventions Sea Chefs 052024.xlsx"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Deposit Caixabank.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Deposit Cetelem.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Deudas Hacienda 2020.xlsx"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/DevOps Nana/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/DevSecOps Nana and PracticalDevSecOps/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Documento firmado para notaria.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/.DS_Store"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Alta en el ROI aeat ATENDER PRESENTAR FACTURAS.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Alta en el ROI aeat ATENDIDO PRESENTAR FACTURAS.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Alta en el ROI aeat.PDF"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/CPN.106939 Jose Jiminez Indra Contract 23-24.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Candidate Contract - 19.04.21 - 30.06.21.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Completed Bank Details.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Consol BACs Form.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Consol Emergency Contact.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Contract EPO - 01.07.22 - 30.06.23.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Contrato freelance Consol Partners.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/DETALLE DEL CENSO DE OPERADOR (EORI) ESPA\303\221OL.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Jose Manuel Castellano Jimenez Contract 2023.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Jose Manuel Castellano Jimenez Contract extension 2024.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Not needed ROI for EPO.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/PagerDuty/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Professional Indemnity Insurance Certificate.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Proof of NIE.PDF"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Proof of Tax ID Number or CID.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Seguro Responsabilidad Civil Doc. Emisi\303\263n.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Seguro Responsabilidad Civil IPOC - IND.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Seguro Responsabilidad Civil Poliza.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Social Security Registration.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Solicitud alta VAT.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/Spanish ID.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/VAT registration documents last year 2020.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/EPO/VIES VAT number validation.PDF"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Electricity Invoice Jan 2025.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Facturacion/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Fotos comuni\303\263n Nena/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Hacienda 2015/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Hacienda 2016/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Hacienda 2017/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Hacienda 2018/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Hacienda 2019/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Hacienda 2023/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/How-Anthropic-teams-use-Claude-Code_v2.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/IAG/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/IVA 2023.numbers"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Incorporacion Minsait/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Incorporaci\303\263n Logicalis/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/JMCJ Consulting/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/JMCJ INVEST LIMITED Company snapshot.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Mpforall - GFT/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/National ID Jose Manuel Castellano Jimenez.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/National ID Luz Marina Arias Ramirez.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Proyecto Sea Chefs/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Proyecto Synergia/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Registerutskrift.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Renta 2020/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Renta 2021 extras/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Reto 2"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Reto 2.docx"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Reto 2.gdoc"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Reto 3.docx"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Reto 3.pages"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Setencia de fecha 17 de marzo de 2016.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Sin t\303\255tulo.numbers"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/So, i have this 2 documents: \"\360\237\216\257 Fast Infrastruct....gsheet"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Soporte Mistral Business Solutions.pdf"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/TCS Noruega/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/ULTIMOS HACIENDA/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/Venta piso Montecarmelo/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/foto perfil.jpg"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-blockchain.jpg"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-blockchain.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-construct.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-figma.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-form.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-hyperledger.jpg"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-hyperledger.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-java.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-java.png.crdownload"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-java.webp"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-java2.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-study.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-study.webp"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/icon-travel.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/image"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/k8s/"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/lovelace.itermcolors"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/sans.jpeg"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/sans.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/sans2.jpg"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/sans2.png"
+?? "Library/CloudStorage/GoogleDrive-jmcastellanojimenez@gmail.com/My Drive/windsurf/"
+?? Library/CloudStorage/OneDrive-Personal/
+?? Library/Compositions/
+?? Library/Contacts/
+?? Library/Containers/
+?? Library/DataAccess/
+?? Library/DataDeliveryServices/
+?? Library/Favorites/
+?? Library/Finance/
+?? Library/FontCollections/
+?? Library/Fonts/
+?? Library/FrontBoard/
+?? Library/Google/
+?? "Library/Group Containers/"
+?? Library/GroupContainersAlias
+?? Library/HTTPStorages/
+?? "Library/Input Methods/"
+?? Library/Intents/
+?? Library/Java/
+?? Library/Keyboard/
+?? Library/KeyboardServices/
+?? Library/Keychains/
+?? Library/LanguageModeling/
+?? Library/LaunchAgents/
+?? Library/LockdownMode/
+?? Library/Logs/
+?? Library/Maps/
+?? Library/Metadata/
+?? Library/Microsoft/
+?? "Library/Mobile Documents/"
+?? Library/News/
+?? Library/Passes/
+?? Library/Photos/
+?? Library/Preferences/
+?? Library/Receipts/
+?? Library/ResponseKit/
+?? Library/Roblox/
+?? Library/SafariSafeBrowsing/
+?? "Library/Saved Application State/"
+?? Library/Spelling/
+?? Library/Spotlight/
+?? Library/Stickers/
+?? Library/Translation/
+?? Library/UnifiedAssetFramework/
+?? Library/WebKit/
+?? Library/com.apple.AppleMediaServices/
+?? Library/com.apple.appleaccountd/
+?? Library/com.apple.bluetooth.services.cloud/
+?? Library/com.apple.bluetoothuser/
+?? Library/com.apple.iTunesCloud/
+?? Library/com.apple.icloud.searchpartyd/
+?? Library/com.apple.internal.ck/
+?? Library/homeenergyd/
+?? Movies/
+?? Music/
+?? OneDrive
+?? Pictures/
+?? Public/
+?? "Virtual Machines.localized/"
+?? billing-system/
+?? connect-eks-daily.sh
+?? cookies.txt
+?? eks-admin-custom-role.yaml
+?? eks-functions.sh
+?? flag.txt
+?? gitops-argocd/
+?? iam_policy.json
+?? iam_policy_updated.json
+?? ip-addresses.txt
+?? java_error_in_webstorm_19326.log
+?? keeper.ppk
+?? keeper1.pem
+?? msfinstall
+?? sites.google.com/
+?? subdomainlist
