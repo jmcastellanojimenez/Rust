@@ -1,0 +1,10 @@
+# toml
+[workspace]
+members = [
+  "01-guessing-game",
+  "web-server-01",
+]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
