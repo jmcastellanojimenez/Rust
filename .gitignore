@@ -1,0 +1,14 @@
+# Workspace-level ignores
+/target/
+
+# IDE/editor
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rust backup files
+**/*.rs.bk
