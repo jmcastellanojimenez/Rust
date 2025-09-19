@@ -1,0 +1,17 @@
+# Rust build artifacts
+/target/
+**/target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Rust/Cargo
+**/*.rs.bk
+Cargo.lock
+
+# Logs
+*.log
