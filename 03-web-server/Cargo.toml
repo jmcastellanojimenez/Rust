@@ -1,0 +1,29 @@
+[package]
+name = "web_server_03"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+# Produce an executable named exactly "03-web-server"
+name = "03-web-server"
+# Use the standard main entrypoint
+path = "src/main.rs"
+
+[dependencies]
+axum = { version = "0.7", features = ["macros", "json"] }
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "signal"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+uuid = { version = "1", features = ["serde", "v4"] }
+jsonwebtoken = "9"
+bcrypt = "0.15"
+async-trait = "0.1"
+thiserror = "1"
+anyhow = "1"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "fmt", "json"] }
+chrono = { version = "0.4", features = ["serde", "clock"] }
+tower = { version = "0.5", features = ["util"] }
+tower-http = { version = "0.5", features = ["cors", "trace", "compression-full"] }
+reqwest = { version = "0.12", features = ["json", "rustls-tls"] }
+futures = "0.3"

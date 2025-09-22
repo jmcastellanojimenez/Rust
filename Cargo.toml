@@ -3,6 +3,7 @@
 members = [
   "01-guessing-game",
   "02-web-server",
+  "03-web-server",
 ]
 resolver = "2"
 

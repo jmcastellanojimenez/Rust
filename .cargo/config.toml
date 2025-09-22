@@ -1,0 +1,26 @@
+# Faster linking using LLVM's lld linker
+#
+# On macOS, install LLVM (which provides ld64.lld):
+#   Intel:   brew install llvm
+#   Apple Silicon (M1/M2/M3): brew install llvm
+# Then follow instructions from `brew info llvm` to make sure the tools are on PATH,
+# or use the explicit paths below.
+
+# ... existing code ...
+[target.x86_64-apple-darwin]
+# Use system linker for maximum compatibility on macOS
+# If you want lld and have it on PATH, uncomment one of the lines below:
+# rustflags = ["-C", "link-arg=-fuse-ld=lld"]
+# rustflags = ["-C", "link-arg=-fuse-ld=ld64.lld"]
+
+[target.aarch64-apple-darwin]
+# Use system linker for maximum compatibility on Apple Silicon
+# If you want lld and have it on PATH, uncomment one of the lines below:
+# rustflags = ["-C", "link-arg=-fuse-ld=lld"]
+# rustflags = ["-C", "link-arg=-fuse-ld=ld64.lld"]
+
+# Notes:
+# - On Linux you can try the very fast `mold` linker: install mold and set
+#   RUSTFLAGS="-C link-arg=-fuse-ld=mold" (project-local or globally).
+# - On macOS you can also try `sold` (a cousin of mold) if installed.
+# - These alternatives can significantly reduce incremental link times.
