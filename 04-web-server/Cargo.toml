@@ -1,0 +1,30 @@
+[package]
+name = "web_server_04"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+# Produce an executable named exactly "04-web-server"
+name = "04-web-server"
+path = "src/main.rs"
+
+[dependencies]
+axum = { version = "0.7", features = ["macros", "json"] }
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "signal", "full"] }
+serde = { version = "1", features = ["derive"] }
+thiserror = "1"
+async-trait = "0.1"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+uuid = { version = "1", features = ["v4", "serde"] }
+chrono = { version = "0.4", features = ["serde", "clock"] }
+bcrypt = "0.15"
+jsonwebtoken = "9.2"
+redis = { version = "0.24", features = ["tokio-comp"] }
+sqlx = { version = "0.7", features = ["runtime-tokio-rustls", "postgres", "uuid", "chrono", "migrate"] }
+config = "0.14"
+serde_json = "1"
+anyhow = "1"
+tower = { version = "0.4", features = ["full"] }
+tower-http = { version = "0.5", features = ["trace", "cors", "compression-full"] }
+futures = "0.3"

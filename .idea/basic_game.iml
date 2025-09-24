@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03-web-server/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03-web-server/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/04-web-server/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/01-guessing-game/target" />
       <excludeFolder url="file://$MODULE_DIR$/02-web-server/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
